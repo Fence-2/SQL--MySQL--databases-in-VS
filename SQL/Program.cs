@@ -11,7 +11,7 @@ namespace SQL
     {
         static void Main(string[] args)
         {
-            string connStr = "server=localhost;user=root;database=people;password=0000;";
+            string connStr = "server=localhost;user=root;database=people;password=1234321;";
 
             MySqlConnection conn = new MySqlConnection(connStr);
 
